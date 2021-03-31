@@ -306,7 +306,7 @@ __Листинг 3 - CoroutinesDownload.kt__
 
 Представляем Вашему вниманию картину Пабло Пикассо "Сидящий на красной скамье Арлекин" !!!
 
-![](/Users/joker/AndroidStudioProjects/lab6/app/Picasso.png)
+![](https://github.com/Joker707/lab6/blob/master/app/Picasso.png)
 
 __Листинг 4 - Task2_PicassoExample.kt__
 
