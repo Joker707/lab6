@@ -308,6 +308,7 @@ __Листинг 3 - CoroutinesDownload.kt__
 
 ![](https://github.com/Joker707/lab6/blob/master/app/Picasso.png)
 
+
 __Листинг 4 - Task2_PicassoExample.kt__
 
     private const val url = "https://pp.userapi.com/c628718/v628718010/15fe/7GxzcHAsxdA.jpg"
