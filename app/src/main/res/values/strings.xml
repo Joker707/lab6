@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">lab6</string>
+    <string name="seconds_thread">Thread seconds = %d</string>
+    <string name="seconds_task">Task seconds = %d</string>
+    <string name="seconds_cor">Coroutines seconds = %d</string>
+    <string name="download">Download</string>
+    <string name="downloadImage">download Image</string>
+</resources>
